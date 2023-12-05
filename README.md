@@ -1,25 +1,17 @@
-<h1 align="center">Suh dude! It's me Eiyw</h1>
-<h3 align="center">This me:</h3>
+<h3 align="center">Suh dude! It's me Eiyw</h3>
 
-- 🔭 | I’m currently working on: **Sky LLC**
+- 🔭 | *I’m currently working on*: **Sky LLC**
+- 🌱 | *I’m currently learning*: **nothin' mate**
+- 👯 | *I’m looking to collaborate on*: **nothin' mate again**
+- 🤝 | *I’m looking for help with*: **nothin' mate again haha**
 
-- 🌱 | I’m currently learning: **nothin' mate lol**
+- 👨‍💻 | *All of my projects are available at*: **why you tryna fork**
+- 📝 | *I regularly write articles on*: **no**
+- 💬 | *Ask me about*: **minecraft**
 
-- 👯 | I’m looking to collaborate on: **nothin' mate**
-
-- 🤝 | I’m looking for help with: **nothin' mate**
-
-- 👨‍💻 | All of my projects are available at: [why you tryna fork](why you tryna fork)
-
-- 📝 | I regularly write articles on: [i aint a journalist](i aint a journalist)
-
-- 💬 | Ask me about: **minecraft**
-
-- 📫 |How to reach me: **dontyoueventry@youtwat.com**
-
-- 📄 | Know about my experiences: [dawg nah](dawg nah)
-
-- ⚡ | Fun fact: **i like turtles**
+- 📫 | *How to reach me*: **support@github.com**
+- 📄 | *Know about my experiences*: **my resumé comes soon**
+- ⚡ | *Fun fact*: **i like turtles**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
