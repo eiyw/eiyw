@@ -1,17 +1,16 @@
 <h3 align="center">Suh dude! It's me Eiyw</h3>
 
-- 🔭 | *I’m currently working on*: **Sky LLC**
-- 🌱 | *I’m currently learning*: **nothin' mate**
-- 👯 | *I’m looking to collaborate on*: **nothin' mate again**
-- 🤝 | *I’m looking for help with*: **nothin' mate again haha**
+- 🔭 | *I’m currently working on*: **Miles & Heifei C.O**
+- 🌱 | *I’m currently learning*: **Trading**
+- 👯 | *I’m looking to collaborate on*: **Nothing actually.**
+- 🤝 | *I’m looking for help with*: **Still nothing lol.**
 
-- 👨‍💻 | *All of my projects are available at*: **why you tryna fork**
-- 📝 | *I regularly write articles on*: **no**
-- 💬 | *Ask me about*: **minecraft**
+- 👨‍💻 | *All of my projects are available at*: **No I won't let you fork.**
+- 💬 | *Ask me about*: **DiscordJS**
 
-- 📫 | *How to reach me*: **support@github.com**
-- 📄 | *Know about my experiences*: **my resumé comes soon**
-- ⚡ | *Fun fact*: **i like turtles**
+- 📫 | *How to reach me*: **eiyw@proton.me**
+- 📄 | *Know about my experiences*: **My resumé comes soon**
+- ⚡ | *Fun fact*: **I like turtles**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
